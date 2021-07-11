@@ -11,6 +11,8 @@ Once People join a single conspiracy-minded [Facebook] group , they are algorith
 
 Facebook’s news feed and personalized search delivers results that are tailored just to us because a social network’s business is to keep us interested and happy. Feeling good drives engagement and more time spent on a site, and that keeps a user targetable with advertisements for longer. Pariser argues that this nearly invisible editing of the Internet limits what we see—and that it will “ultimately prove to be bad for us and bad for democracy.”
 
+Different biases in Machine learning lifecycle in terms of Data science and not Statistics.
 
+![](https://www.oreilly.com/radar/wp-content/uploads/sites/3/2021/06/Adapted-from-Cornell-University-paper-A-Framework-for-Understanding-Sources-of-Harm-throughout-the-Machine-Learning-Life-Cycle-by-Harini-Suresh-and-John-V.-Guttag-1048x697.png)
 
-
+Lets look at each briefly-
